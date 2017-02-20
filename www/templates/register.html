@@ -1,0 +1,26 @@
+<ion-view>
+   <ion-content class="registerPage">
+       <div class="list">
+           
+       <label class="item item-input">
+    <input type="text" placeholder="Username" ng-model="user.username" required>
+  </label>
+  <label class="item item-input">
+    <input type="email" placeholder="Email Address" ng-model="user.email" required>
+  </label>
+  <label class="item item-input">
+    <input type="password" placeholder="Password"ng-model="user.password" required>
+  </label>
+    
+</div>
+      <center> <button class="button button-outline button-balanced" ng-click="register(user)">Register</button></center>
+       <div class="buttons padding">
+        <button class="button icon ion-social-facebook padding" style="" ng-click="facebookLogin()">Facebook</button>
+        <button class="button  icon ion-social-googleplus padding" ng-click="googleLogin()" >Google</button>
+        <button class="button  icon ion-social-linkedin padding" >Linked</button>
+       </div>
+       <div class="padding">
+        <p>{{diagnostic}}</p>
+       </div>
+   </ion-content>
+</ion-view>

@@ -1,0 +1,12 @@
+<ion-view>
+   <ion-content class="homePage" >
+       
+      <div ng-if="loggedInBy != 'facebook'" class="list">
+        <div class="item">Username : {{user.username}} </div>
+          <div class="item">Email : {{user.email}} </div>
+          
+          <div ng-if="loggedInBy == 'api' " class="item">password : {{user.password}} </div>
+       </div>
+       <label class="label padding">Successfully Registered by using {{loggedInBy}}</label>
+   </ion-content>
+</ion-view>oller
