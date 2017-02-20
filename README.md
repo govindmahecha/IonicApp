@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# IonicAPP
-=======
 # IonicApp
 Cross Platform Mobile Application
 
