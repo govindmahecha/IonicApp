@@ -1,0 +1,38 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.ionicframework.ionicapp569400"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.ionicframework.ionicapp569400"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.ionicframework.ionicapp569400"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.ionicframework.ionicapp569400"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.ionicframework.ionicapp569400"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.ionicframework.ionicapp569400"
+        },
+        "cordova-plugin-facebook": {
+            "FACEBOOK_APP_ID": "1341616169228345",
+            "FACEBOOK_DISPLAY_NAME": "IonicApp",
+            "PACKAGE_NAME": "com.ionicframework.ionicapp569400"
+        },
+        "cordova-plugin-googleplus": {
+            "PACKAGE_NAME": "com.phonegap.ionicApp"
+        }
+    },
+    "dependent_plugins": {}
+}
