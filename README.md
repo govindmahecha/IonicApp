@@ -3,6 +3,7 @@ Cross Platform Mobile Application
 
 # Technologies Used 
   # Phonegap
+  # Cordova
   # Ionic
   # Angular JS
   
