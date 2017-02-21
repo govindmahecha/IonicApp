@@ -7,8 +7,13 @@ Cross Platform Mobile Application
   # Angular JS
   
 # Description 
-  This application is introducing Registration by using API, Facebook ,GooglePlus and Linkedin.It is a sample application which
-  could be useful for Cross Platform Beginners.
+  This application is containing following Features:
+  <ul>
+<li>Register by API</li>
+<li>Facebook Login</li>
+<li>Google Plus Login</li>
+<li>LinkedIn Login (not implemented)</li>
+   </ul>
 
 # Screenshots  
 
