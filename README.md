@@ -9,6 +9,7 @@ Cross Platform Mobile Application
 # Description 
   This application is containing following Features:
   <ul>
+<li>Ionic Page Navigation</li>
 <li>Register by API</li>
 <li>Facebook Login</li>
 <li>Google Plus Login</li>
